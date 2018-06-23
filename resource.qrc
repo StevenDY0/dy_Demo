@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/other">
+        <file>skin/other/qt_zh_CN.qm</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>skin/images/titleclose.png</file>
+        <file>skin/images/titlemax.png</file>
+        <file>skin/images/titlemenu.png</file>
+        <file>skin/images/titlemini.png</file>
+        <file>skin/images/zx_logo.ico</file>
+        <file>skin/images/logo.png</file>
+        <file>skin/images/dataentry.png</file>
+        <file>skin/images/dataexport.png</file>
+        <file>skin/images/infoquery.png</file>
+        <file>skin/images/infotable.png</file>
+        <file>skin/images/sysset.png</file>
+    </qresource>
+</RCC>
